@@ -1,2 +1,2 @@
-# netology-project
+# neproject
  git application
